@@ -19,7 +19,8 @@ _Only check items that are applicable. Please delete options that are not releva
 - [ ] Does this PR have any data law ramifications (GDPR, CCPA, etc.)?
 
 ## Reversion and related branches
-Please list any other branches you might have included besides `master`, to help with merging and reversions.
+- [ ] Please describe any special issues that might come up if a reversion is needed.
+- [ ] Please list any other branches you might have included besides `master`, to help with merging and reversions.
 
 # Other Notes
 * This section can be omitted as needed.
