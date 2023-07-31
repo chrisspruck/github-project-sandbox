@@ -5,10 +5,10 @@ This should be a description of the changes which were introduced, including why
 _Only check items that are applicable. Please delete options that are not relevant._
 
 ## General 
-- [ ] Are there appropriate unit tests (new or modified) for the proposed changes?
+- [ ] Are there appropriate tests (new or modified) for the proposed changes?
 - [ ] For new SQL (other than schema modifications), has performance been considered and/or tested, was an EXPLAIN plan run, was the change discussed with others, etc.?
 - [ ] Is additional logging or monitoring advisable (activity_log db entries, CloudWatch metrics, etc.)?
-- [ ] Are there any infrastructure changes needed or other implications to make people aware of?
+- [ ] Are there any infrastructure changes needed or other infrastructure implications to make people aware of?
 - [ ] Does this change require a documentation update (API or other)?
 
 ## Security and Privacy Considerations
